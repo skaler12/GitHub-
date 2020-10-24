@@ -2,7 +2,7 @@ package gitdemoproject.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//komentarz 
+//komentarz  sda
 @SpringBootApplication
 public class DemoApplication {
 
